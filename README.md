@@ -1,5 +1,7 @@
 # CoolingoWeb_final
+
 -Template duoc dat trong folder Template.
+
 -Source code dat trong folder CoolingoWeb.
     +BackEnd: Server 
     +FrontEnd: Chua ma nguon UI,Js
