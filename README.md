@@ -1,11 +1,11 @@
 # CoolingoWeb_final
 
--Template duoc dat trong folder Template.
+- Template duoc dat trong folder Template.
 
--Source code dat trong folder CoolingoWeb.
-    +BackEnd: Server 
-    +FrontEnd: Chua ma nguon UI,Js
-    +Database: chua script Sql,
+- Source code dat trong folder CoolingoWeb.
+    + BackEnd: Server 
+    + FrontEnd: Chua ma nguon UI,Js
+    + Database: chua script Sql,
 *Huong dan su dung:
 
 B1 Khoi tao database tren mysql tu file script
